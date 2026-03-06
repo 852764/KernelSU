@@ -13,7 +13,7 @@
 #include <linux/slab.h>
 #include <linux/types.h>
 #include <linux/version.h>
-#include <linux/compiler_types.h>
+#include <linux/compiler.h>
 
 #include "klog.h" // IWYU pragma: keep
 #include "ksu.h"
